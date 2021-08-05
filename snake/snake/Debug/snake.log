@@ -1,0 +1,3 @@
+﻿  snake.cpp
+C:\Users\minoo\OneDrive\Desktop\snake\snake\snake.cpp(713,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+  snake.vcxproj -> C:\Users\minoo\OneDrive\Desktop\snake\Debug\snake.exe
